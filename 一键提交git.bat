@@ -1,5 +1,4 @@
 title GIT提交批处理——小二三不乌
-color 16
 
 
 echo 开始提交代码到本地仓库
